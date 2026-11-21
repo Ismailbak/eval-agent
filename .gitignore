@@ -1,0 +1,12 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.venv/
+.env
+# runtime data
+backend/app.db
+backend/uploads/
+# real course/syllabus documents (named third parties) - keep local
+documents/
+presentation/render/
